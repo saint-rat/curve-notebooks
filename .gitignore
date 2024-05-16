@@ -1,2 +1,7 @@
 # Ignore CSV files
-*.csv
+*csv
+*csv*
+*json
+contracts/
+rpcs.uri
+.~*
